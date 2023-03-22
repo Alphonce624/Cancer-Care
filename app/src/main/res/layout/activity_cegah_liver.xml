@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_marginTop="-30dp"
+                android:id="@+id/gejalaserviksimg"
+                android:src="@drawable/cegahhati"
+                android:scaleType="centerCrop"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingTop="0dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:text="@string/cegahhati1"
+                android:id="@+id/gejala_serviks1"
+                android:textSize="16sp"
+                android:layout_below="@id/gejalaserviksimg"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingTop="0dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:text="@string/cegahhati2"
+                android:id="@+id/gejala_serviks2"
+                android:textSize="16sp"
+                android:layout_below="@id/gejala_serviks1"/>
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+</LinearLayout>

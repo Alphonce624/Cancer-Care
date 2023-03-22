@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.mycancercare">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".Awal"></activity>
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".KankerServiks.KontakDokActivity2" />
+        <activity android:name=".KankerServiks.KontakDokActivity" />
+        <activity android:name=".KankerTulang.CegahBone" />
+        <activity android:name=".KankerTulang.ObatBone" />
+        <activity android:name=".KankerTulang.GejalaBone" />
+        <activity android:name=".KankerTulang.KenalBone" />
+        <activity android:name=".KankerOtak.CegahBrain" />
+        <activity android:name=".KankerOtak.ObatBrain" />
+        <activity android:name=".KankerOtak.GejalaBrain" />
+        <activity android:name=".KankerOtak.KenalBrain" />
+        <activity android:name=".KankerHati.CegahLiver" />
+        <activity android:name=".KankerHati.ObatLiver" />
+        <activity android:name=".KankerHati.GejalaLiver" />
+        <activity android:name=".KankerHati.KenalLiver" />
+        <activity android:name=".KankerDarah.CegahBlood" />
+        <activity android:name=".KankerDarah.ObatBlood" />
+        <activity android:name=".KankerDarah.GejalaBlood" />
+        <activity android:name=".KankerDarah.KenalBlood" />
+        <activity android:name=".KankerServiks.CegahServiks" />
+        <activity android:name=".KankerServiks.ObatServiks" />
+        <activity android:name=".KankerServiks.GejalaServiks" />
+        <activity android:name=".KankerServiks.KenalServiks" />
+        <activity android:name=".KankerPayudara.CegahBreast" />
+        <activity android:name=".KankerPayudara.ObatBreast" />
+        <activity android:name=".KankerPayudara.GejalaBreast" />
+        <activity android:name=".KankerPayudara.KenalBreast" />
+        <activity android:name=".KankerHati.LiverActivity" />
+        <activity android:name=".KankerTulang.BoneActivity" />
+        <activity android:name=".KankerServiks.ServiksActivity" />
+        <activity android:name=".KankerOtak.BrainActivity" />
+        <activity android:name=".KankerDarah.BloodActivity" />
+        <activity android:name=".KankerPayudara.BreastActivity" />
+        <activity android:name=".MainActivity"></activity>
+    </application>
+
+</manifest>

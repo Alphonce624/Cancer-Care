@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_marginTop="-30dp"
+                android:id="@+id/imgcegah"
+                android:src="@drawable/cegah"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingTop="0dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:text="@string/bagaimanacegah"
+                android:id="@+id/kenalbreast"
+                android:textSize="16sp"
+                android:layout_below="@id/imgcegah"/>
+
+            <ImageView
+                android:id="@+id/sendiri"
+                android:layout_width="wrap_content"
+                android:layout_height="370dp"
+                android:contentDescription="@string/todo"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_marginTop="-70dp"
+                android:layout_below="@id/kenalbreast"
+                app:srcCompat="@drawable/sendiri" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_marginTop="-70dp"
+                android:layout_below="@id/sendiri"
+                android:text="@string/desc_sendiri"
+                android:textSize="16sp"
+                android:id="@+id/desc_sendiri"/>
+
+            <ImageView
+                android:id="@+id/mamografi"
+                android:layout_width="wrap_content"
+                android:layout_height="370dp"
+                android:contentDescription="@string/todo"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_marginTop="-70dp"
+                android:layout_below="@id/desc_sendiri"
+                app:srcCompat="@drawable/mamografi" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_marginTop="-60dp"
+                android:layout_below="@id/mamografi"
+                android:text="@string/desc_mamo"
+                android:textSize="16sp"
+                android:id="@+id/desc_mamo"/>
+
+            <ImageView
+                android:id="@+id/gayasehat"
+                android:layout_width="wrap_content"
+                android:layout_height="370dp"
+                android:contentDescription="@string/todo"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_marginTop="-75dp"
+                android:layout_below="@id/desc_mamo"
+                app:srcCompat="@drawable/gayasehat" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_below="@id/gayasehat"
+                android:layout_marginTop="-70dp"
+                android:text="@string/desc_gayasehat"
+                android:textSize="16sp"
+                android:id="@+id/desc_gayasehat"
+                android:paddingBottom="20dp"/>
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

@@ -1,0 +1,252 @@
+<resources>
+    <string name="app_name">Uzima Care</string>
+    <string name="desc_cancer"> by non-cancerous cell growth. Cancer is a disease characterized by control, which has the ability to infiltrate and damage healthy cells in the body.</string>
+    <string name="apa_itu_kanker">What is Cancer?</string>
+    <string name="penyebab_kanker">Causes of Cancer?</string>
+    <string name="desc_penyebab">The main cause of cancer is DNA mutations in cells, causing cells to divide at a faster rate than normal. Apart from mutations, cancer is also caused by radiation, cigarette smoke, viruses, chemical carcinogens and hormones</string>
+    <string name="faktor_risiko">risk factor?</string>
+    <string name="faktorrisiko">Risk factors for cancer include age, family history, environment, chronic health conditions, infections and immune system disorders.</string>
+    <string name="pelajarilebihlanjut">Want more information?</string>
+
+    <string name="kenal_breast"><b>What is Breast Cancer?</b>\n\nBreast cancer is a condition when cancer cells form in the breast tissue. Cancer can form in the glands that produce milk (lobules), or in the ducts (ducts) that carry milk from the glands to the nipple.
+        \n\nCancer can also form in the fatty tissue or connective tissue in the breast. Breast cancer forms when cells in the breast grow abnormally and out of control. These cells generally form a tumor that feels like a lump. Although it usually occurs in women, breast cancer can also affect men. The most common breast cancer is divided into several types.
+        \n\n<b>a. Ductal carcinoma in situ.</b>
+        \nThis cancer grows in the ducts, and does not spread to the surrounding tissue. This type of cancer includes early-stage cancer and is easily treated. However, this cancer can spread to surrounding tissues if not treated immediately.
+
+</string>
+    <string name="todo">TODO</string>
+    <string name="lcis"><b>b. Lobular carcinoma in situ.</b>tissue
+        \This cancer grows in the lobules. Just like ductal carcinoma in situ, this cancer does not spread to the surrounding .</string>
+    <string name="idc"><b>c. Invasive ductal carcinoma.</b>
+        \nThis cancer grows in the ducts and can spread to the surrounding tissue, and can even spread to other areas of the body. This type of cancer occurs in 70–80% of breast cancer cases.</string>
+    <string name="ilc"><b>d. Invasive lobular carcinoma.</b>
+        \nIs a cancer that grows in the lobules and can spread to the surrounding tissue. This cancer occurs in 10% of cases of breast cancer.</string>
+    <string name="gejala_breast">\n<b>What are the characteristics of breast cancer?</b>
+        \n\nThe most characteristic feature of breast cancer is the appearance of a lump in the breast. Lumps characteristic of breast cancer have a hard texture with unclear boundaries and an uneven surface. Lumps also continue to persist 8 to 10 days after menstruation. If the lump that is characteristic of breast cancer is close to the nipple, you will see that the nipple is pulled in and is rather difficult to move (sticky).
+        \nAside from the appearance of a lump, other signs and characteristics of breast cancer that you can recognize are:
+        \n\n <b>a. Changes in the size, shape, or appearance of the breast.</b>
+        \n\n <b>b. Changes in the shape of the nipple.</b>
+        \n\n <b>c. Pain in the breast that does not go away, even when you have entered your period the following month. Even so, there are also some women who do not experience pain or tenderness in their breasts.</b>
+        \n\n <b>d. Nipples secrete a clear, brown, or yellow liquid.</b>
+        \n\n <b>e. The nipples are suddenly red and swollen for no known reason. </b>
+        \n\n <b>f. Swelling around the armpit caused due to enlarged lymph nodes in the area.</b>
+        \n\n <b>g. Veins are visible in the breast, as a result the veins in the breast are clearly visible.</b>
+        \n\n <b>h. At an advanced stage, abnormalities in the skin of the breast begin to appear (such as orange peel or skin becoming reddish), sometimes the skin also becomes concave like a dimple because it is attracted by a lump.</b></string>
+    <string name="bagaimanacegah"><b>How to prevent breast cancer?</b>
+        \n\nAn effective way to prevent this disease is to avoid all the risk factors that cause it. In addition, being aware of the symptoms of breast cancer with early detection is also an important step to prevent this disease. Here are some ways of early detection to be aware of the symptoms of breast cancer that you can do.
+        \n\n <b>1. Check your own breasts</b></string>
+    <string name="desc_sendiri">The easiest step to find out the symptoms of breast cancer is to do breast self-examination or BSE. The goal is to check for lumps in the breast. You can do this check at home regularly. Examinations carried out regularly will help you to recognize the texture of normal breast tissue.
+        \n\n
+    \n\n <b>2. Mammography</b></string>
+    <string name="desc_mamo">Apart from doing BSE, you can do routine mammography examinations to detect the presence or absence of cancer cells in the breast. This examination is important to do to find out the symptoms of early breast cancer. Mammography itself is an image scanning technique using low-dose X-rays to detect and diagnose cancer in the breast.
+        \n\n
+    \n\n <b>3. Lifestyle Changes</b></string>
+    <string name="desc_gayasehat">Some lifestyle changes that can help prevent cancer in the breast, namely:
+        \n\n <b>a. Limit alcohol consumption</b>
+        \nAlcohol consumption is no more than one drink per liver. Better yet, give up alcohol completely.
+        \n\n <b>b.Regular exercise</b>
+        \nRegular moderate-intensity exercise for at least 30 minutes every day. This can be started by simply walking, cycling,jogging, and so on. If necessary, ask your doctor about sports that suit your condition.
+        \n\n <b>c. Limit postmenopausal hormone therapy</b>
+        \nThe combination of hormone therapy can increase the risk of developing cancer in the breast.
+        \n\n <b>d. healthy weight</b>
+        \nTry to get a healthy and ideal body weight. If you need to lose a lot of weight, ask your doctor about healthy strategies to achieve this. .</string>
+    <string name="obat_desc"><b>What breast cancer drugs are commonly used?</b>
+        \n\nYour doctor determines therapy as a breast cancer drug based on the following factors:
+        \n- Type of cancer in the breast
+        \n- Stage of cancer in the breast
+        \n- The size of the cancer in the breast
+        \n- Sensitivity of cancer cells to hormones
+        \n- Your overall health condition
+        \n\nThere are 5 types of standard therapy that doctors can perform as a cure for breast cancer, including::</string>
+    <string name="obat2_desc">\n <b>1. Surgery</b>
+        \n- Surgery Conservative surgery, which removes cancer cells and the lymph nodes involved.
+        \n- Total mastectomy, which is the removal of the entire breast affected by cancer.
+        \n- Modified radical mastectomy, which is the removal of the entire breast affected by cancer, lymph nodes under the armpits, along the muscles in the chest, and sometimes part of the chest wall muscles.
+        \n\n <b>2. Radiation therapy</b>
+        \nRadiation therapy is a cancer therapy using high-energy X-rays that are targeted to kill cancer cells or inhibit the growth of cancer cells.
+        \n\n <b>3. Chemotherapy</b>
+        \nChemotherapy, namely cancer therapy using drugs to inhibit the growth of cancer cells. This therapy can be done before surgery to shrink the tumor before it is removed.</string>
+    <string name="obat_des3">\n\n <b>4. Hormone therapy</b>
+        \nHormone therapy is a cancer therapy by inhibiting the action of hormones and preventing the development of cancer cells.
+        \n\n <b>5. Target therapy</b>
+        \nTargeted therapy is therapy that uses drugs or other chemicals to identify and specifically attack cancer cells without killing normal cells.
+        </string>
+    <string name="apaitukankerserviks1"><b>What is Cervical Cancer?</b>
+        \n\nCervical cancer is cancer that grows in cells in the cervix. Generally, cervical cancer shows no symptoms in its early stages. New symptoms appear when the cancer has started to spread.</string>
+    <string name="apaituserviks2">\The cervix is ​​the lower part of the uterus which is connected to the vagina. One function of the cervix is ​​to produce mucus or mucus. Mucus helps transport sperm from the vagina to the uterus during sexual intercourse. In addition, the cervix will also close during pregnancy to keep the fetus in the uterus, and will widen or open during labor. There are two types of cervical cancer, namely:
+        \n\n <b> 1. Squamous cell carcinoma (SCC)</b>
+        \nKSS is the most common type of cervical cancer. SCC begins in squamous cells, which are cells that line the outside of the cervix.
+        \n\n <b> 2. Adenocarcinoma</b>
+        \nThis type of cervical cancer begins in glandular cells in the cervical canal.</string>
+    <string name="gejalaserviks1">\n<b>What are the characteristics of cervical cancer?</b>
+        \n\nIn the early stages of its development, it is very difficult for women with cervical cancer to find symptoms or conditions that lead to this disease. Where early-stage cervical cancer or pre-cancer hardly shows any serious symptoms. Even new symptoms will be known after the growth of a tumor in the cervix. Symptoms that are often experienced by cervical cancer sufferers themselves are to show the following characteristics:</string>
+    <string name="gejalaserviks2">\n- Unnatural vaginal bleeding occurs, for example, you experience bleeding when you are not menstruating, longer menstrual periods, bleeding during or after intercourse, bleeding after bowel movements, bleeding after menopause.
+        \n- Irregular menstrual cycles.
+        \n- Abnormal abnormal whiteness</string>
+    <string name="gejalaserviks3">- There is pain in the pelvis or in the lower back
+        \n- The body becomes tired, weak, and often tired
+        \n- Decreased appetite
+        \n- Weight loss drastically even though not on a diet program
+        \n- One part of the leg is swollen
+        \n- Discharge from the vagina that is not normal and is accompanied by a pungent odor and blood spots</string>
+    <string name="bedah"><b>ukPengobatan apa saja yang dapat dilakan?</b>
+\n\nTreatments for cervical cancer include surgery, chemotherapy, radiotherapy, or a combination of all three. The method chosen depends on several factors, namely the stage of the cancer, the type of cancer, and the health condition of the patient. A number of treatments that can be done for cervical cancer include:        \n\n<b>1. Bedah</b></string>
+    <string name="bedahdetail">Several surgical methods can treat cervical cancer, especially in its early stages. Among others are:
+        \n\n <b>a. Conization or cone biopsy</b>
+        \nThis procedure aims to remove cancer cells using a scalpel, laser, or thin electrified wire (LEEP). The conization method chosen depends on the location and type of cancer.
+        \n\n <b>b. Hysterectomy</b>
+        \nHysterectomy is a surgery to remove the uterus (uterus) and cervix (cervical).
+        \n\n <b>c. Radical trachelectomy</b>
+        \nTrachelectomy surgery aims to remove the cervix, upper vagina, and lymph nodes in the hip area, through laparoscopy.
+        \n\n<b>2. Radio therapy\n</b></string>
+    <string name="radiotrapi">Radiotherapy is a cancer treatment method that uses high levels of radiation to kill cancer cells.
+        \n\n<b>3. chemotherapy\n</b></string>
+    <string name="detailkemo">Chemotherapy is a method of treatment by giving patients anticancer drugs in the form of oral or injectable drugs.</string>
+    <string name="cegahserviks1"><b>How to prevent cervical cancer?</b>
+        \n\n<b>a. Routinely perform pap smear examination</b>
+        \nPap Smear is one of the best ways as a first line of defense to prevent cervical cancer. This one screening method functions to detect cells in the cervix that have the potential to become cancerous later.
+        \n\n<b>b. Get the HPV vaccination</b>
+        \nAnother way that is no less important to prevent cervical cancer is to vaccinate against HPV. Jika Anda wanita dan laki-laki berusia antara 9 sampai 26 tahun, Anda disarankan untuk mendapatkan vaksin ini.</string>
+    <string name="cegahserviks2">\n<b>c. Avoid smoking</b>
+        \nYou can reduce your chances of getting cervical cancer by not smoking. Not smoking is another important way to reduce your risk of cervical cancer. The reason is, cigarette toxins are oxidative so that they can trigger cancer cells to appear and get more vicious.
+    </string>
+    <string name="cegahserviks3">\n<b>c. Avoid smoking</b>
+        \nYou can reduce your chances of getting cervical cancer by not smoking. Not smoking is another important way to reduce your risk of cervical cancer. The reason is, cigarette toxins are oxidative so that they can trigger cancer cells to appear and get more vicious.
+    </string>
+    <string name="kankerdar1"><b>What is Blood Cancer?</b>
+\n\nBlood cancer or leukemia is a cancer that attacks white blood cells. White blood cells are blood cells that function to protect the body against foreign substances or diseases. These white blood cells are produced by the bone marrow. Types of Blood Cancer There are various types of blood cancer. Based on the speed of its development, this cancer can be classified as acute and chronic.</string>
+    <string name="kankerdar2">\n<b> 1. Acute Blood Cancer</b>
+\nAcute blood cancer develops rapidly due to the increase in the number of abnormal white blood cells or immature cells that cannot function normally. This growth is very rapid and so is its spread into the bloodstream. This type must be treated immediately. If left untreated, the body will lack oxygen and the immune system will decrease against diseases or infections.
+\n\n<b> 2. Chronic Blood Cancer</b> Chronic blood cancer develops slowly and in the long term. White blood cells that should have died will continue to live and accumulate in the bloodstream, bone marrow, and other related organs.</string>
+    <string name="gejalablood1"><b>What are the Symptoms of Blood Cancer?</b>
+\n\nBlood cancer symptoms vary greatly. Each patient usually experiences different indications, depending on the type of blood cancer they have. These cancer indications are also difficult to recognize because they tend to be similar to other conditions, such as the flu. Therefore, we need to be alert to common indications that do not improve or subside, such as:
+\n\n- Continuous fatigue or tiredness
+\n- Fever
+\n- Chills
+\n- Headache
+\n- Nausea and vomiting
+\n- Excessive sweating, especially at night
+\n- Pain in bones or joints
+\n- Weight loss
+\n- Swelling of lymph nodes, liver, or spleen
+\n- Severe or frequent infections
+\n- Easy bleeding (such as frequent nosebleeds) or bruising
+\n- Red spots on the skin.</string>
+    <string name="kemoblood1"><b>What are the available treatments?</b>
+\n\nHere are the commonly recommended treatment methods for blood cancer, including:
+\n\n<b>1. Chemotherapy</b></string>
+    <string name="kemoblood2">Chemotherapy is the most common therapy choice for leukemia blood cancer cases. Chemotherapy treatment uses chemicals to kill blood cancer cells.
+\n\n<b>2. Radiation therapy</b></string>
+    <string name="radi1">This treatment technique uses X-rays to destroy and inhibit the growth of cancer cells. Radiation therapy can be performed only on a specific area affected by cancer, or on the entire body, depending on your condition. Radiation therapy can also be performed to prepare for stem cell transplantation.
+\n\n<b>3. Stem cell transplantation</b></string>
+    <string name="cell">Stem cell transplantation is used to replace damaged bone marrow with healthy marrow. The stem cells used can come from your own body or from someone else as a donor. Chemotherapy or radiation therapy is usually performed as a preparation step before undergoing this transplantation procedure.
+\n\n<b>4. Targeted therapy to attack vulnerable parts within cancer cells</b>
+\n\n<b>5. Biological therapy to help the immune system recognize and attack cancer cells</b></string>
+    <string name="cegahblood"><b>How to prevent Blood Cancer?</b>
+\n\nThe following are the lifestyle patterns that can be done to prevent blood cancer:
+\n\n- Avoid smoking habits.
+\n- Maintain an ideal body weight by consuming a balanced and nutritious diet and being physically active
+\n- Avoid exposure to harmful chemicals such as benzene, formaldehyde, and radon
+\n- Sources of exposure in the surrounding environment usually come from insecticides, vehicle exhaust, unleaded gasoline, and pesticide sprays
+\n- Limit exposure to radiation from X-rays, CT scans, and similar devices</string>
+    <string name="apahati"><b>What is liver cancer?</b>
+\n\nLiver cancer is the most common carcinoma of liver cells, which is the primary tumor that grows in the liver and is not caused by the spread of other organs in the body. The liver plays a vital role in cleaning the blood of toxins and various harmful substances. Liver cancer is divided into two types, namely:
+\n\n<b>a. Primary liver cancer</b>
+\nOccurs and grows for the first time in the liver organ. Generally, this type of liver cancer occurs as a complication of liver disease such as hepatitis or cirrhosis.
+\n\n<b>b. Secondary liver cancer</b>
+\nNot all cancers that affect the liver are called liver cancer. Cancer that arises from other organs in the body such as the intestines, lungs, or breasts and then spreads to the liver is called metastatic cancer or cancer that has spread.</string>
+    <string name="gejalahati1">\n<b>What are the signs and symptoms of liver cancer?</b>
+\n\nOne in three patients do not show early signs of liver cancer. That is why the symptoms of liver cancer may not always be the same for everyone. However, in general, the following are signs and symptoms of liver cancer that usually appear:
+\n\n- Drastic weight loss
+\n- Nausea and vomiting
+\n- Pain in the abdomen
+\n- Abdomen swelling for no reason
+\n- Eating disorders
+\n- Feeling weak and lethargic
+\n- Jaundice/yellowing of the skin and eyes
+\n- Pale colored stool</string>
+    <string name="gejalahati2">\nLiver cancer symptoms are often caused by other diseases. In addition, in many cases, signs and symptoms of liver cancer may not appear until severe damage has occurred. Therefore, make an appointment with your doctor if you have signs or symptoms of liver cancer. There may be other liver cancer symptoms that have not been mentioned above. If you are concerned about any of the liver cancer symptoms, please consult with your doctor.</string>
+    <string name="obathati1">\nThe method of treatment for liver cancer patients depends on age, cancer stage, and patients health condition.Some common treatment methods include:
+\n\n<b>1. Surgery</b>
+\nSurgery is performed when the size of the cancer is small (there is one tumor less than 5 cm or 2-3 tumors less than 3 cm), and it has not spread to other organs.
+\n\n<b>2. Tumor ablation</b>
+\nAblation aims to destroy cancer cells without having to remove them. This method is used for small cancer cells or applied when the patient cannot undergo surgery.</string>
+    <string name="obathati2">\n<b>3. Embolization</b>
+\nEmbolization is a procedure that injects drugs to block or reduce blood flow to liver cancer cells. This procedure is performed when the tumor size is more than 5 cm.
+\n\n<b>4. Radioembolization</b>
+\nRadioembolization is a type of internal radiation therapy used to treat cancer that cannot be removed through surgery. This procedure is also performed on colon cancer that has spread to the liver.
+\n\n<b>5. Radiation therapy</b>
+        \nRadiation therapy or radiotherapy uses high-powered radiation to kill cancer cells. One type of radiation therapy for liver cancer is external beam radiation therapy, which directs radiation beams at the patients body.</string>
+    <string name="obathati3">\n<b>6. Chemoembolization</b>
+\nChemoembolization or transarterial chemoembolization (TACE) is a therapy that combines chemotherapy and embolization. This procedure is done by injecting drugs into the cancer area, and blocking the blood flow to cancer cells in the liver.</string>
+    <string name="cegahhati1"><b>\nHow to prevent liver cancer?</b>
+    The following is a lifestyle pattern that can be done:
+\n\n<b>1. Prevent Hepatitis Disease</b>
+\nThe risk factor for liver cancer increases if chronic infection with the hepatitis B virus (HBV) and hepatitis C virus (HCV) occurs. These viruses can spread from person to person through shared injection needles and unsafe sexual contact.
+\n\n<b>2. Stop Smoking and Alcohol Consumption Habits</b>
+        \nDrinking alcohol can increase the risk of liver cirrhosis, which can lead to liver cancer over time. Smoking also causes liver damage.</string>
+<string name="cegahhati2">
+        \n\n<b>3. Maintain Body Weight</b>
+\nAccording to several studies, overweight people are more likely to develop fatty liver disease, which can also increase the risk of liver cancer. Therefore, it is important to maintain a healthy and ideal body weight.
+\n\n<b>4. Reduce the Use of Chemicals that Trigger Cancer</b>
+\nYou should also reduce your intake of foods containing preservatives or chemicals. If possible, you can change your lifestyle by seeking out chemical-free food ingredients.
+     </string>
+    <string name="apabrain"><b>What is brain cancer?</b>
+    \n\nBrain cancer is a condition where malignant tumors grow in the brain. This disease is divided into two types: primary brain cancer (accounting for 75 percent of all brain tumor cases) that originates in the brain, and secondary brain cancer (25 percent of all brain cancer cases) that spreads from other parts of the body to the brain.
+        \n\nAround 40 percent of brain cancers start from support cells called glial cells. Glial cell tumors include astrocytes, primary glial tumors, oligodendrocyte gliomas, ventricular meningiomas, and medulloblastomas.</string>
+    <string name="apabrain2">\nSecondary brain cancer is usually caused by the spread of cancer from other parts of the body, such as breast cancer, lung cancer, kidney cancer, colorectal cancer, and melanoma. Brain cancer is a condition that cannot be avoided but can be mostly managed if detected early.</string>
+    <string name="gejalabrain1">\n<b>What are the signs and symptoms of brain cancer?</b>
+\n\nProlonged headaches are a common symptom of brain cancer because the tumor grows and presses against the skull. Headaches usually occur in the morning after waking up and become worse when coughing and sneezing.
+\n\nOther symptoms depend on the location of the tumor, but can also result in changes in your daily habits. The following are symptoms of brain cancer:</string>
+    <string name="gejalabrain2">\n- Headaches, especially in the morning
+\n- Headaches can feel mild or even severe
+\n- Muscle weakness that often occurs on one side of the body
+\n- Paresthesia, a tingling or numb sensation in the body
+\n- Difficulty maintaining balance and coordination, resulting in uncoordinated body movements
+\n- Difficulty walking, with arms and legs sometimes becoming weak.
+       \n- Seizures
+\n\nIn some cases, people may mistake the symptoms of brain cancer for a stroke, when in fact it is not. In some patients, the symptoms may be clearer, especially if the cancer is located in a specific area of the brain, which is typically responsible for bodily functions.</string>
+    <string name="obatbrain1"><b>What treatments can be done?</b>
+\n\nThe treatment of brain cancer is based on several factors, namely the patients age and general health condition, as well as the location, size, and type of tumor. The options for treating brain cancer include surgery, radiotherapy, chemotherapy, or a combination.
+\n\n<b>1. Surgery</b>
+\nThis procedure aims to remove as much tumor as possible and alleviate the symptoms of brain cancer. Generally, surgery is performed to assist the success of other therapies.</string>
+    <string name="obatbrain2">\n<b>2. Chemotherapy</b>
+\nIn this therapy, anticancer drugs are inserted into the body to kill cancer cells. Chemotherapy can be carried out after surgery to prevent the tumor from recurring and extend the patients life expectancy.
+\n\n<b>3. Radiotherapy</b>
+\nIn radiotherapy, high-energy rays are directed at the tumor site to stop the uncontrolled growth of cancer cells. Radiotherapy is performed to remove tumors that cannot be removed by surgery, as well as to reduce the risk of tumor recurrence. Radiotherapy is carried out in a series of therapies, for 3-7 weeks.</string>
+    <string name="cegahbr1"><b>How to prevent Brain Cancer?</b>
+       \n\nOther preventive measures besides early detection through MRI are by not allowing heavy and continuous stress to attack. If you experience stress, its a good idea to take time to rest and refresh to reduce and eliminate stress.
+\n\nPreventing brain tumors is also very important by limiting excessive direct radiation on the body. For example, by using hands-free when frequently using a mobile phone for a long time.</string>
+    <string name="cegahbr2">\nYou are also advised to apply a healthy eating pattern with balanced nutrition. For example, by consuming fruits, vegetables, and grains. In addition, limit your consumption of fats. Another dietary change that can be done is by reducing foods that are smoked, grilled, and preserved with nitrites, as well as artificial chemicals, including avoiding smoking and alcohol consumption.</string>
+    <string name="apatulang"><b>What is Bone Cancer?</b>
+\n\nBone cancer is a type of cancer that attacks the bones. This condition can be experienced by children to adults. Bone cancer can attack any bone in the body, but it usually occurs in the legs, arms, and pelvis.
+\n\nBone cancer is a rare condition, accounting for only 1% of all cancer patients. Tumors that form in bones are more likely to be benign than malignant.</string>
+    <string name="gejalat1"><b>What are the symptoms of Bone Cancer?</b>
+\n\nHere are the three main signs and symptoms of bone cancer:
+        \n\n<b>1. Pain</b></string>
+    <string name="gejalat2">\nPeople with bone cancer will feel pain in the affected area of the bone. Initially, the pain is only occasional, but it will become more frequent as the cancer grows. The pain will be more pronounced when moving and usually worsens at night.</string>
+
+    <string name="gejalat3">\n<b>2. Swelling</b>
+\nSwelling and inflammation appear in the area around the bone affected by cancer. If the swelling occurs in a bone near a joint, the patient will have difficulty moving the joint.
+\n\n<b>3. Weak bones</b>
+\nBone cancer causes bones to become weak. As it gets worse, even minor injuries can cause the bone to break.</string>
+
+    <string name="gejalat4">\nOther symptoms that may accompany the three main signs above are: Unexplained weight loss. Sweating at night. Easily tired body. Fever. Numbness or tingling sensations if the cancer occurs in the spine and presses on nerves. Shortness of breath if bone cancer spreads to the lungs.</string>
+
+    <string name="gejalat5">\n\nIt should be noted that bone pain in adults is sometimes mistaken for joint inflammation. While in children and adolescents, it is sometimes considered as a side effect of bone growth. Immediately consult a doctor if you or your child feels bone pain that comes and goes, worsens at night, and does not improve even after taking pain relievers.</string>
+
+    <string name="obatt"><b>Bone Cancer Treatment</b>
+        \n\nThe choice of bone cancer treatment depends on the severity, location, and type of cancer. Treatment for bone cancer can be done through surgery, chemotherapy, or radiotherapy.</string>
+\n
+    <string name="obatt1">\n<b>Surgery</b>
+        \nThe purpose of the surgery is to remove the bone affected by cancer and surrounding tissue if necessary. Some types of surgeries that can be performed to treat bone cancer are bone removal surgery and amputation.</string>
+    <string name="obatt2">\n<b>Chemotherapy</b>
+        \nChemotherapy is the administration of anticancer drugs through injection into the bloodstream. Chemotherapy can be done in several ways, namely: Combined with radiation therapy before the patient undergoes surgery. This method, known as chemoradiation, is effective in treating Ewings sarcoma. Given before surgery to shrink the size of the cancer so that it can be removed without amputation. Given after surgery to prevent cancer cells from growing back. Given to relieve symptoms (palliative chemotherapy) in patients who cannot be treated in any other way.</string>
+    <string name="obatt3">\n<b>Radiotherapy</b>
+        \nRadiotherapy or radiation therapy is done by emitting high doses of radiation, such as X-rays. This procedure is usually done before surgery to shrink cancer cells, making it easier to remove. Radiotherapy is generally performed 5 times a week, with each session lasting several minutes.</string>
+    <string name="cegaht"><b>How to prevent Bone Cancer?</b>
+        \n\nPrevention of bone cancer can be done by understanding the process of cancer itself. Cancer usually occurs due to the presence of carcinogenic substances and free radicals in the body. Therefore, we can prevent it by adopting a healthy lifestyle such as avoiding smoking, consuming alcohol, as well as foods that contain a lot of fat and carcinogenic substances.
+        \n\nGet into the habit of consuming foods and drinks that contain antioxidants and other important nutrients, and regularly undergo health check-ups.</string>
+</resources>
+
+

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_marginTop="-30dp"
+                android:id="@+id/obatserviks"
+                android:src="@drawable/obatblood"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingTop="0dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:text="@string/kemoblood1"
+                android:id="@+id/kemoid1"
+                android:textSize="16sp"
+                android:layout_below="@id/obatserviks"/>
+
+            <ImageView
+                android:id="@+id/bedahimg"
+                android:layout_width="wrap_content"
+                android:layout_height="370dp"
+                android:contentDescription="@string/todo"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_marginTop="-50dp"
+                android:layout_below="@id/kemoid1"
+                app:srcCompat="@drawable/kemoterapi" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_marginTop="-50dp"
+                android:layout_below="@id/bedahimg"
+                android:text="@string/kemoblood2"
+                android:textSize="16sp"
+                android:id="@+id/detailbedah"/>
+
+            <ImageView
+                android:id="@+id/radioterapi"
+                android:layout_width="wrap_content"
+                android:layout_height="370dp"
+                android:layout_below="@id/detailbedah"
+                android:layout_marginTop="-50dp"
+                android:contentDescription="@string/todo"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                app:srcCompat="@drawable/radioterapi" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_marginTop="-50dp"
+                android:layout_below="@id/radioterapi"
+                android:text="@string/radi1"
+                android:textSize="16sp"
+                android:id="@+id/radi1"/>
+
+            <ImageView
+                android:id="@+id/cell"
+                android:layout_width="wrap_content"
+                android:layout_height="370dp"
+                android:contentDescription="@string/todo"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_marginTop="-50dp"
+                android:layout_below="@id/radi1"
+                app:srcCompat="@drawable/cel" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_below="@id/cell"
+                android:layout_marginTop="-50dp"
+                android:text="@string/cell"
+                android:textSize="16sp"
+                android:id="@+id/cell3"
+                android:paddingBottom="20dp"/>
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

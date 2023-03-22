@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_marginTop="-30dp"
+                android:id="@+id/imgobat"
+                android:src="@drawable/gejalat"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingTop="0dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:text="@string/gejalat1"
+                android:id="@+id/brain1"
+                android:textSize="16sp"
+                android:layout_below="@id/imgobat"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingTop="0dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:text="@string/gejalat2"
+                android:id="@+id/obat1"
+                android:textSize="16sp"
+                android:layout_below="@id/brain1"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingTop="0dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:text="@string/gejalat3"
+                android:id="@+id/obat2"
+                android:textSize="16sp"
+                android:layout_below="@id/obat1"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingTop="0dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:text="@string/gejalat4"
+                android:id="@+id/obat3"
+                android:textSize="16sp"
+                android:layout_below="@id/obat2"/>
+        </RelativeLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

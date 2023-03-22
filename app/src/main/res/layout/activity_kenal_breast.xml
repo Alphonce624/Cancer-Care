@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_marginTop="-30dp"
+                android:id="@+id/imgbreast1"
+                android:src="@drawable/kenalbreast"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingTop="0dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:text="@string/kenal_breast"
+                android:id="@+id/kenalbreast"
+                android:textSize="16sp"
+                android:layout_below="@id/imgbreast1"/>
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="370dp"
+                android:contentDescription="@string/todo"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_below="@id/kenalbreast"
+                app:srcCompat="@drawable/dcis" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_below="@id/imageView2"
+                android:text="@string/lcis"
+                android:textSize="16sp"
+                android:id="@+id/desc_lcis"/>
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="370dp"
+                android:contentDescription="@string/todo"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_below="@id/desc_lcis"
+                app:srcCompat="@drawable/lcis" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_below="@id/imageView3"
+                android:text="@string/idc"
+                android:textSize="16sp"
+                android:id="@+id/desc_idc"/>
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="370dp"
+                android:contentDescription="@string/todo"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_below="@id/desc_idc"
+                app:srcCompat="@drawable/idc" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="corbel"
+                android:paddingStart="20dp"
+                android:paddingEnd="10dp"
+                android:layout_below="@id/imageView4"
+                android:text="@string/ilc"
+                android:textSize="16sp"
+                android:id="@+id/desc_ilc"
+                android:paddingBottom="20dp"/>
+
+        </RelativeLayout>
+    </ScrollView>
+
+</LinearLayout>
